@@ -8,8 +8,7 @@
 
   1. email: andreibleahu@gmail.com
   2. LinkedIn : https://www.linkedin.com/in/andrei-bleahu-978896119/
-
-
+  3. Webiste: http://dataphysicssynergy.com/
     
   </ul>
 <!---
