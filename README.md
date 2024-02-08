@@ -1,14 +1,14 @@
-- 👋 Hi, I’m Andrei, a data scientist with a background in Physics. Some examples of fields that excite me are healtcare, computer vision and digital marketing . As a physicist, I am experienced in scientific data analysis, which includes handling experimental data, building models for real-world problems, and uncertainty estimation.  
-- 👀 I’m interested in Data Science roles in industry.
+- 👋 Hi, I’m Andrei, a data scientist with a background in Physics . As a physicist, I am experienced in scientific data analysis, which includes handling experimental data, building models for real-world problems, and uncertainty estimation.  
+- 👀 I'm interested in the applications of data science to digital marketing healthcare and computer vision.
 - 🥇 I’m currently working towards my Data Science postgraduate qualification from the University of St Andrews.
-- 👨‍🔬 Check out my current projects in my data repositories
+- 👨‍🔬 Check out my current projects in my repositories
 - 📫 How to reach me ...
 
   <ul>
 
-  1. email: andreibleahu@gmail.com
-  2. LinkedIn : https://www.linkedin.com/in/andrei-bleahu-978896119/
-  3. Website: coming soon!
+  1. [Email](andreibleahu@gmail.com)
+  2. [LinkedIn](https://www.linkedin.com/in/andrei-bleahu-978896119/)
+  
     
   </ul>
 <!---
