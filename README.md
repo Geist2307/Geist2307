@@ -6,7 +6,7 @@
 
   <ul>
 
-  1. If you'd like to discuss anything related to data, you can always contact me by [email](andreibleahu@gmail.com)
+  1. If you'd like to discuss anything related to data, you can always contact me by at : andreibleahu@gmail.com
   2. For more details about my background and education, please see my [LinkedIn](https://www.linkedin.com/in/andrei-bleahu-978896119/)
   
     
