@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Andrei, a data scientist with a background in Physics . As a physicist, I am experienced in scientific data analysis, which includes handling experimental data, building models for real-world problems, and uncertainty estimation.  
-- 👀 I'm interested in the applications of data science to digital marketing healthcare and computer vision.
+- 👋 Hi, I’m Andrei, a Data Scientist with a background in Physics . As a physicist, I gained hands-on experience in scientific data analysis : solving problems by building mathematical models for data. Found it very useful when transitioning into Data Science.
+- 👀 I'm interested in the applications of data science to healtcare and finance. 
 - 🥇 I’m currently working towards my Data Science postgraduate qualification from the University of St Andrews.
-- 👨‍🔬 Check out my current projects in my repositories
+- 👨‍🔬 Check out some End-to-End Machine Learning workflows in my repositories
 - 📫 How to reach me ...
 
   <ul>
