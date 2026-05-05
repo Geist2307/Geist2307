@@ -11,6 +11,9 @@ engineer roles.
 
 ## Projects
 
+Full project details at [geist2307.github.io/portfolio](https://geist2307.github.io/portfolio.html)
+
+
 **[BayesianGPT-I](https://github.com/Geist2307/BayesianGPT-I)**  
 Transformer architecture implemented from scratch in Julia with Bayesian 
 weight uncertainty. Achieves up to 90% parameter reduction versus standard 
@@ -29,6 +32,8 @@ Python · Julia · FastAPI · LangChain · LangGraph · PyTorch · AWS EC2 · SQ
 ---
 
 📧 andreibleahu@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/andrei-ioan-bleahu-978896119/)  
+🌐 [Portfolio](https://geist2307.github.io)
 
 <!---
 Geist2307/Geist2307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
