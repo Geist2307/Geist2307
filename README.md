@@ -15,9 +15,8 @@ Full project details at [geist2307.github.io/portfolio](https://geist2307.github
 
 
 **[BayesianGPT-I](https://github.com/Geist2307/BayesianGPT-I)**  
-Transformer architecture implemented from scratch in Julia with Bayesian 
-weight uncertainty. Achieves up to 90% parameter reduction versus standard 
-transformers while maintaining predictive performance.
+Transformer Decoder-like architecture implemented from scratch in Julia with Bayesian 
+weight uncertainty. Allows sampling and prunes unnecessary weights during training. 
 
 **[EDAAgent](https://github.com/Geist2307/EDAAgent)**  
 Conversational AI agent for exploratory data analysis. Upload any CSV, get 
