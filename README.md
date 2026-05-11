@@ -23,6 +23,10 @@ Conversational AI agent for exploratory data analysis. Upload any CSV, get
 structured visual insights, ask follow-up questions in plain English. Built 
 with LangGraph, FastAPI, and Streamlit.
 
+**[RAG+BayesianMLP]https://github.com/Geist2307/RAG_VIMLP
+
+This project implements a full RAG pipeline over ECB foreign exchange data, enabling natural language queries over structured financial time-series. The system retrieves semantically relevant documents and generates grounded, cited responses. Alongside the text analysis, a Bayesian MLP produces a posterior predictive curve with a ±1σ uncertainty ribbon and a configurable forward forecast.
+
 ---
 
 ## Stack
